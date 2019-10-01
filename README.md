@@ -1,1 +1,1 @@
-# example
+# AutoMergeBot in action
